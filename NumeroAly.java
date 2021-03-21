@@ -1,6 +1,6 @@
 /**
  *
- * @author tut-exam Riku Ketonen, 254700
+ * @author tut-exam --redacted--
  */
 
 import java.util.Scanner;
